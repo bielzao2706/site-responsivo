@@ -10,6 +10,12 @@
         width: 24px;
         height: 24px;
         background-image: url("../img/Menu.svg");
+        background-repeat: no-repeat;
+        background-position: inline-block;
+    }
+
+    .container-imagem{
+        padding: 1em;
     }
     
     .container {
@@ -25,6 +31,10 @@
         display: none;
         position: absolute;
         top: 100%;
+    }
+
+    .container-botao:checked~.container-menu{
+        display: block;
     }
     
     @media screen and (min-width: 1024px) {
