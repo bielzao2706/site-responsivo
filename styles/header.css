@@ -4,6 +4,12 @@
     justify-content: space-between;
     align-items: center;
     }
+
+    .cabeçalho-menu-hamburguer{
+        width: 24px;
+        height: 24px;
+        background-image: url("../img/Menu.svg");
+    }
     
     .container {
     display: flex;
