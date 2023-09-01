@@ -37,7 +37,7 @@
         display: block;
     }
 
-    .menu-item .menu-item-titulo{
+    .menu-item, .menu-item-titulo{
         padding: lem;
         background-color:var(--branco)
     }
