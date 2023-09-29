@@ -40,7 +40,7 @@
 
     .menu-item, .menu-item-titulo{
         padding: 1em;
-        background-color:var(--branco)
+        background-color:var(--branco);
     }
 
     .menu-link{
