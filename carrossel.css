@@ -3,6 +3,6 @@ carrossel-titulo{
     background-color: var(--branco);
     text-align: center;
     text-transform: uppercase;
-    font-size;
+    font-size: 18px;
     font-weight: 700;
 }
